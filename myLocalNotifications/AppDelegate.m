@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  myLocalNotifications
 //
-//  Created by falcomu on 13/10/22.
+//  Created by falcomu on 2013/11/19.
 //  Copyright (c) 2013年 falcomu. All rights reserved.
 //
 //系統資訊，手機與程序溝通的管道，程序想要與系統(iPhone)溝通需要他．
